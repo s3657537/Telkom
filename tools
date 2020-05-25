@@ -1,1 +1,54 @@
+<html>
+    <head>
+        <title>Telkom+</title>
+        <link rel="stylesheet" href="main.css">
+    </head>
 
+<body>
+<h1><img src="Telkomplus.jpg" style="height:200px"></h1>
+
+<h1>
+    <div id="menuItem">
+        <a href="index.html" style="color:black"><span class="menuItem">Home</span></a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="teamprofile.html" style="color:black"><span class="menuItem" id="menuLastElement">Team Profile</span></a>                                              
+        &nbsp;&nbsp;&nbsp;
+        <a href="tools.html" style="color:black"><span class="menuItem" id="menuLastElement">Tools</span></a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="projectdescription.html" style="color:black"><span class="menuItem">Project Description</span></a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="projectidea.html" style="color:black"><span class="menuItem">Project Idea</span></a>
+        </div>
+</h1>
+
+<br><br><br>
+
+<h2>Tools</h2>
+
+<br><br><br><br>
+
+<footer>
+  <div id="footerContainer">
+      <div class="footerColumn">
+          <span class="footerTitle" style="font-size: 18px; font-weight: 900">Telkom+</span>
+          <span class="footerItems" style="font-weight: bold;">We will work 100%<br>to be the best</span>
+      </div>
+      <div class="footerColumn">
+      </div>
+      <div class="footerColumn">
+        <span class="footerTitle">Explore</span>
+        <a class="footerItems" href="index.html">Home</a>
+        <a class="footerItems" href="teamprofile.html">Team Profile</a>
+        <a class="footerItems" href="tools.html">Tools</a>
+        <a class="footerItems" href="projectdescription.html">Project Description</a>
+        <a class="footerItems" href="projectidea.html">Project Idea</a>
+      </div>
+      </div>
+  </div>
+  <div class="genericContainer" id="copyrightFooter">
+      <h1><p>&copy; 2020 Telkom+</p></h1>
+  </div>
+</footer>
+
+</body>
+</html>
