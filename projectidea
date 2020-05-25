@@ -30,7 +30,7 @@
     <ul>
         <li>
         <h4>Topic</h4>
-        <p></p>
+        <p>Telkom+ purpose is to create a connectivity towards “non-smart” devices that aren’t able to connect directly to the internet. We supply an application and a device that allows these “non-smart” devices become smart devices with a simple plug-and-play adaptor, once doing so clients are able to connect “non-smart” and already available smart devices to the Telkom+ app that grants them access to a variety of controls for these devices. Basic controls include the ability to switch the device on and off using the app or accessing CCTV footage, but more advanced controls include the ability to connect CCTV and motion sensors to a lock down mode if there is movement inside without a member having the application connected. We want our users to have the complete freedom to control and connect devices for a better lifestyle, giving them no restraint to which device can or can’t connect to their application, but rather encouraging them to connect “non-smart” devices.</p>
         </li>
         <br>
         <li>
@@ -64,7 +64,7 @@
 <br><br>
 
 <h4>Tools and Technologies</h4>
-<p></p>
+<p>Our base software used to create this is Raspberry Pi, we would need this to create the device that connects the “non-smart” devices together. We would also need the licences for current programming software’s for Android such as, Java, Kotlin, C# or C++ just to name a few and software’s for Apple like, Swift. We would need hardware to create the adaptor for “non-smart” devices and the Raspberry Pi. Our group has experience programming in Java, C and some Micro bit experience, but the skills in these categories are still basic. None of us have any experience with Swift, Kotlin or Raspberry Pi, and this project gives us a chance to learn and pick up a few things for these languages and hardware.</p>
 <br><br>
 
 <h4>Testing</h4>
@@ -73,6 +73,10 @@
 
 <h4>Timeframe</h4>
 <p></p>
+<br><br>
+
+<h4>Risks</h4>
+<p>A major risk about creating a new product and application is that it might not take off, all the funding and time spent might all be wasted if the product doesn’t have consumers. Some of the language to code for the application may be learnt slower than others and this might slow down the progress of developing the application and the functions. The documentation between the group might be hard to understand or might not even exist, this can affect the progress of the development too. Another risk could be the ability to transfer documents, the uncertainty that someone might intercept the documents or that some members are unable to send through documents due to their internet restrictions. A major risk would consist of our adaptor being inadequate to grant access for “non-smart” devices to connect with the Wi-Fi making it a smart device. The Raspberry Pi or similar products might be difficult to understand or achieve our desired goal.</p>
 <br><br>
 
 <h4>Group Processes and Communications</h4>
