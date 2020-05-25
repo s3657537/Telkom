@@ -1,0 +1,84 @@
+h1 {
+    font-size = 60px;
+    font-family: Verdana;
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    font-size = 50px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h3 {
+    font-size = 40px;
+    font-family: Verdana;
+}
+
+h4 {
+    font-size = 50px;
+    font-family: Verdana;
+}
+
+p {
+    font-size = 20px;
+    color: black;
+    font-family: Verdana;
+}
+
+ul {
+    color: black;
+    font-family: Verdana;
+    font-style: bold;
+}
+
+ol {
+    color: black;
+    font-family: Verdana;
+    font-style: bold;
+}
+
+#footerContainer {
+    background: gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+    font-family: verdana;
+  }
+  
+  .footerColumn {
+    display: flex;
+    flex-direction: column;
+    font-family: verdana;
+  }
+  
+  .footerTitle {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: verdana;
+  }
+  
+  .footerItems {
+    font-size: 12px;
+    padding-top: 6px;
+    font-family: verdana;
+  }
+  
+  .footerColumn a {
+    cursor: pointer;
+  }
+  
+  .footerColumn a:hover {
+    color: white;
+  }
+
+footer {
+    background: gray;
+    opacity: 90%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: verdana;
+  }
+    
