@@ -1,41 +1,42 @@
 h1 {
-    font-size = 60px;
-    font-family: Verdana;
+    font-size: 35px;
+    font-family: helvetica;
     text-align: center;
     color: black;
 }
 
 h2 {
-    font-size = 50px;
-    font-family: Verdana;
+    font-size: 50px;
+    font-family: helvetica;
     text-align: center;
 }
 
 h3 {
-    font-size = 40px;
-    font-family: Verdana;
+    font-size: 40px;
+    font-family: helvetica;
+    text-decoration: underline;
 }
 
 h4 {
-    font-size = 50px;
-    font-family: Verdana;
+    font-size: 30px;
+    font-family: helvetica;
 }
 
 p {
-    font-size = 20px;
+    font-size: 20px;
     color: black;
-    font-family: Verdana;
+    font-family: helvetica;
 }
 
 ul {
     color: black;
-    font-family: Verdana;
+    font-family: helvetica;
     font-style: bold;
 }
 
 ol {
     color: black;
-    font-family: Verdana;
+    font-family: helvetica;
     font-style: bold;
 }
 
@@ -45,25 +46,25 @@ ol {
     padding-bottom: 10px;
     display: flex;
     justify-content: space-around;
-    font-family: verdana;
+    font-family: helvetica;
   }
   
   .footerColumn {
     display: flex;
     flex-direction: column;
-    font-family: verdana;
+    font-family: helvetica;
   }
   
   .footerTitle {
     font-weight: bold;
     font-size: 20px;
-    font-family: verdana;
+    font-family: helvetica;
   }
   
   .footerItems {
     font-size: 12px;
     padding-top: 6px;
-    font-family: verdana;
+    font-family: helvetica;
   }
   
   .footerColumn a {
@@ -79,6 +80,6 @@ footer {
     opacity: 90%;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-family: verdana;
+    font-family: helvetica;
   }
     
