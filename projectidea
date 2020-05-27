@@ -43,7 +43,7 @@
         <li>
         <h4>Landscape</h4>
         <p>In the market, the similar products are Echo, Homehub, Hub2, SmartThings and HomeKit. The current market leader for the home automation section is Amazon, followed by Google. Other competitors include Samsung, Wink and Apple.</p>
-        <p></p>
+        <p>Some of the points of differences with our project compared to our competitors is the addition to connect “non-smart” devices to our home automation application. Currently, our competitors like Google Assistant and Amazon Alexa require smart devices to be turned on and connected to the internet. With our project we have designed a power board that receives and sends information to our application. When appliances are connected to the board, the application can control when these devices will receive power to turn it on or off. This product will allow our users to avoid constantly having to activate/deactivate the appliances from the switches. The home automation application is used to control all devices that are connected via a wifi connection or through our power board. </p>
         </li>
     </ul>
 
