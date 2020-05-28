@@ -22,6 +22,11 @@ h4 {
     font-family: helvetica;
 }
 
+h5 {
+    font-size: 24px;
+    font-family: helvetica;
+}
+
 p {
     font-size: 20px;
     color: black;
